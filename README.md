@@ -1,1 +1,1 @@
-# oh-my-posh-themes
+# Personal theme of [Oh-my-posh](https://ohmyposh.dev/docs/)
